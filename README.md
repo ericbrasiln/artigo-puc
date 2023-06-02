@@ -1,5 +1,4 @@
-# artigo-puc
-Artigo para a revista Estudos Avançados da PUC.
+# Artigo para a revista Estudos Avançados (USP)
 
 O artigo é resultado da pesquisa *História Digital: acervos e ferramentas digitais para pesquisa e ensino*, desenvolvida com apoio do edital PROPPG 04/2021 - PIBIC UNILAB entre 2021 e 2022. O repositório da pesquisa pode ser acessado [aqui](https://github.com/Curso-de-Historia-Unilab-Males/historia-digital-PIBIC).
 
